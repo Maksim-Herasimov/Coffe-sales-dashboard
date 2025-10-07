@@ -75,10 +75,19 @@ SELECT * FROM top_month_name;
 ```
 </details>
 
-🎨 Visual components:
-Bar chart: popularity of coffee by sales volume
-Area chart: sales dynamics by month
-Bubble chart: distribution of coffee consumption by time of day
-Activity calendar: color coding by day
+![Dashboard for coffe shop (Free Data Source)](./dashboard_tableau.png)
+[Dashboard for coffe shop (Free Data Source)](https://public.tableau.com/app/profile/maksym.herasymov/viz/DashboardforcoffeshopFreeDataSource/One-yearreport?publish=yes)
+
+
+## 🎨 Visual components:
+
+**Bar chart:** popularity of coffee by sales volume
+
+**Area chart:** sales dynamics by month
+
+**Bubble chart:** distribution of coffee consumption by time of day
+
+**Activity calendar:** color coding by day
+
 This project demonstrates my skills in SQL analytics, visual storytelling, dashboard branding, and user experience optimization. It is part of my portfolio as a data analyst focused on business insights and UX.
 
